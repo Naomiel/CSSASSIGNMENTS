@@ -402,7 +402,7 @@ ul li img {
 }
 
 .design {
-    background-image: url('/CSSASSIGNMENTS/Assignment6/images/aurora.svg');
+    background-image: url('./images/aurora.svg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -426,7 +426,7 @@ ul li img {
     justify-content: center;
     align-items: center;
     height: 426px;
-    background-image: url('/CSSASSIGNMENTS/Assignment6/images/revolutionBG.png');
+    background-image: url('./images/revolutionBG.png');
     background-size: cover;
     background-position: center;
     padding: 20px;
@@ -495,8 +495,8 @@ ul li img {
 
 
 .faq-section {
-    background-image: url('/CSSASSIGNMENTS/Assignment6/images/left.svg'), 
-                      url('/CSSASSIGNMENTS/Assignment6/images/right.svg'); 
+    background-image: url('./images/left.svg'), 
+                      url('./images/right.svg'); 
     background-repeat: no-repeat;
     background-position: left top, right bottom; 
     background-size: 300px auto, 300px auto; 
@@ -584,7 +584,7 @@ details p {
 
 
 .pre-footer {
-    background-image: url('/CSSASSIGNMENTS/Assignment6/images/revolutionBG.png');
+    background-image: url('./images/revolutionBG.png');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -623,7 +623,7 @@ details p {
     width: 100%; 
     padding: 60px 0; 
     overflow: hidden;
-    background-image: url('/CSSASSIGNMENTS/Assignment6/images/last_left.svg'), url('/CSSASSIGNMENTS/Assignment6/images/last_right.svg');
+    background-image: url('./images/last_left.svg'), url('./images/last_right.svg');
     background-position: left bottom, right bottom; 
     background-repeat: no-repeat, no-repeat; 
     background-position: 0% 100%, 100% 100%; 
