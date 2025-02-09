@@ -34,7 +34,7 @@ body {
 .card h1 {
     position: absolute;
     top: -40px;
-    background-color: orange;
+    background-color: #ff00aa;;
     text-align: center;
     padding: 20px 20px;
     border-radius: 6px;
