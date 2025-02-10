@@ -47,7 +47,7 @@ p {
 button {
     font-size: 1.2rem;
     padding: 12px 20px;
-    background-color: #007BFF;
+    background-color: rgb(60, 28, 28);
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -61,7 +61,7 @@ button a {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: rgb(60, 28, 28);
 }
 
 /* Responsive Design */
